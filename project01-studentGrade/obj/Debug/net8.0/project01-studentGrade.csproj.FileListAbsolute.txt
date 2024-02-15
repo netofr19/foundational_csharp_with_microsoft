@@ -1,0 +1,14 @@
+C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project01-studentGrade\bin\Debug\net8.0\project01-studentGrade.exe
+C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project01-studentGrade\bin\Debug\net8.0\project01-studentGrade.deps.json
+C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project01-studentGrade\bin\Debug\net8.0\project01-studentGrade.runtimeconfig.json
+C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project01-studentGrade\bin\Debug\net8.0\project01-studentGrade.dll
+C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project01-studentGrade\bin\Debug\net8.0\project01-studentGrade.pdb
+C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project01-studentGrade\obj\Debug\net8.0\project01-studentGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project01-studentGrade\obj\Debug\net8.0\project01-studentGrade.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project01-studentGrade\obj\Debug\net8.0\project01-studentGrade.AssemblyInfo.cs
+C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project01-studentGrade\obj\Debug\net8.0\project01-studentGrade.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project01-studentGrade\obj\Debug\net8.0\project01-studentGrade.dll
+C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project01-studentGrade\obj\Debug\net8.0\refint\project01-studentGrade.dll
+C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project01-studentGrade\obj\Debug\net8.0\project01-studentGrade.pdb
+C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project01-studentGrade\obj\Debug\net8.0\project01-studentGrade.genruntimeconfig.cache
+C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project01-studentGrade\obj\Debug\net8.0\ref\project01-studentGrade.dll
