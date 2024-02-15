@@ -12,3 +12,4 @@ C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft
 C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project01-studentGrade\obj\Debug\net8.0\project01-studentGrade.pdb
 C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project01-studentGrade\obj\Debug\net8.0\project01-studentGrade.genruntimeconfig.cache
 C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project01-studentGrade\obj\Debug\net8.0\ref\project01-studentGrade.dll
+C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project01-studentGrade\obj\Debug\net8.0\project01-studentGrade.sourcelink.json

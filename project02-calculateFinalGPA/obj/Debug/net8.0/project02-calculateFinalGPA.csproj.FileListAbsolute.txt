@@ -12,3 +12,4 @@ C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft
 C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project02-calculateFinalGPA\obj\Debug\net8.0\project02-calculateFinalGPA.pdb
 C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project02-calculateFinalGPA\obj\Debug\net8.0\project02-calculateFinalGPA.genruntimeconfig.cache
 C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project02-calculateFinalGPA\obj\Debug\net8.0\ref\project02-calculateFinalGPA.dll
+C:\Users\SAMSUNG\OneDrive\Documentos\PROJETOS\foundational_csharp_with_microsoft\project02-calculateFinalGPA\obj\Debug\net8.0\project02-calculateFinalGPA.sourcelink.json
