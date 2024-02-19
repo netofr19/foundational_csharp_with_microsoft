@@ -1,0 +1,15 @@
+/home/francisco/Documents/foundational_csharp_with_microsoft/callMethods/bin/Debug/net8.0/callMethods
+/home/francisco/Documents/foundational_csharp_with_microsoft/callMethods/bin/Debug/net8.0/callMethods.deps.json
+/home/francisco/Documents/foundational_csharp_with_microsoft/callMethods/bin/Debug/net8.0/callMethods.runtimeconfig.json
+/home/francisco/Documents/foundational_csharp_with_microsoft/callMethods/bin/Debug/net8.0/callMethods.dll
+/home/francisco/Documents/foundational_csharp_with_microsoft/callMethods/bin/Debug/net8.0/callMethods.pdb
+/home/francisco/Documents/foundational_csharp_with_microsoft/callMethods/obj/Debug/net8.0/callMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/francisco/Documents/foundational_csharp_with_microsoft/callMethods/obj/Debug/net8.0/callMethods.AssemblyInfoInputs.cache
+/home/francisco/Documents/foundational_csharp_with_microsoft/callMethods/obj/Debug/net8.0/callMethods.AssemblyInfo.cs
+/home/francisco/Documents/foundational_csharp_with_microsoft/callMethods/obj/Debug/net8.0/callMethods.csproj.CoreCompileInputs.cache
+/home/francisco/Documents/foundational_csharp_with_microsoft/callMethods/obj/Debug/net8.0/callMethods.sourcelink.json
+/home/francisco/Documents/foundational_csharp_with_microsoft/callMethods/obj/Debug/net8.0/callMethods.dll
+/home/francisco/Documents/foundational_csharp_with_microsoft/callMethods/obj/Debug/net8.0/refint/callMethods.dll
+/home/francisco/Documents/foundational_csharp_with_microsoft/callMethods/obj/Debug/net8.0/callMethods.pdb
+/home/francisco/Documents/foundational_csharp_with_microsoft/callMethods/obj/Debug/net8.0/callMethods.genruntimeconfig.cache
+/home/francisco/Documents/foundational_csharp_with_microsoft/callMethods/obj/Debug/net8.0/ref/callMethods.dll

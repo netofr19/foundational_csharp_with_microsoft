@@ -1,0 +1,15 @@
+/home/francisco/Documents/foundational_csharp_with_microsoft/businessRules/bin/Debug/net8.0/businessRules
+/home/francisco/Documents/foundational_csharp_with_microsoft/businessRules/bin/Debug/net8.0/businessRules.deps.json
+/home/francisco/Documents/foundational_csharp_with_microsoft/businessRules/bin/Debug/net8.0/businessRules.runtimeconfig.json
+/home/francisco/Documents/foundational_csharp_with_microsoft/businessRules/bin/Debug/net8.0/businessRules.dll
+/home/francisco/Documents/foundational_csharp_with_microsoft/businessRules/bin/Debug/net8.0/businessRules.pdb
+/home/francisco/Documents/foundational_csharp_with_microsoft/businessRules/obj/Debug/net8.0/businessRules.GeneratedMSBuildEditorConfig.editorconfig
+/home/francisco/Documents/foundational_csharp_with_microsoft/businessRules/obj/Debug/net8.0/businessRules.AssemblyInfoInputs.cache
+/home/francisco/Documents/foundational_csharp_with_microsoft/businessRules/obj/Debug/net8.0/businessRules.AssemblyInfo.cs
+/home/francisco/Documents/foundational_csharp_with_microsoft/businessRules/obj/Debug/net8.0/businessRules.csproj.CoreCompileInputs.cache
+/home/francisco/Documents/foundational_csharp_with_microsoft/businessRules/obj/Debug/net8.0/businessRules.sourcelink.json
+/home/francisco/Documents/foundational_csharp_with_microsoft/businessRules/obj/Debug/net8.0/businessRules.dll
+/home/francisco/Documents/foundational_csharp_with_microsoft/businessRules/obj/Debug/net8.0/refint/businessRules.dll
+/home/francisco/Documents/foundational_csharp_with_microsoft/businessRules/obj/Debug/net8.0/businessRules.pdb
+/home/francisco/Documents/foundational_csharp_with_microsoft/businessRules/obj/Debug/net8.0/businessRules.genruntimeconfig.cache
+/home/francisco/Documents/foundational_csharp_with_microsoft/businessRules/obj/Debug/net8.0/ref/businessRules.dll

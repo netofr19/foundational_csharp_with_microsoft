@@ -64,6 +64,7 @@ namespace _2_secondProject_calculateFinalGPA
            }
 
            Console.WriteLine($"Final GPA: {gradePointAverage:F2}\n");
+
         }
     }
 }

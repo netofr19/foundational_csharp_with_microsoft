@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QIES3+yeYDmYu0vXMJBZZ9HN/nhIfirr2AVxoUwcD6xOiP0k5zhpOIDDnqSqoQwa1eYFzlgVpQu4vnqoMFDojw==",
+  "dgSpecHash": "fyllb5h+HgkJpTkZ1tdL0RHMTtwBcTwFiMyXNpHLdtyqO1VrSP+sM5R03QyoR3LnsF1AhsO2+qipfMBWsXZ0FQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SAMSUNG\\OneDrive\\Documentos\\PROJETOS\\foundational_csharp_with_microsoft\\project02-calculateFinalGPA\\project02-calculateFinalGPA.csproj",
+  "projectFilePath": "/home/francisco/Documents/foundational_csharp_with_microsoft/project02-calculateFinalGPA/project02-calculateFinalGPA.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

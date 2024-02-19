@@ -1,0 +1,15 @@
+/home/francisco/Documents/foundational_csharp_with_microsoft/logicDecision/bin/Debug/net8.0/logicDecision
+/home/francisco/Documents/foundational_csharp_with_microsoft/logicDecision/bin/Debug/net8.0/logicDecision.deps.json
+/home/francisco/Documents/foundational_csharp_with_microsoft/logicDecision/bin/Debug/net8.0/logicDecision.runtimeconfig.json
+/home/francisco/Documents/foundational_csharp_with_microsoft/logicDecision/bin/Debug/net8.0/logicDecision.dll
+/home/francisco/Documents/foundational_csharp_with_microsoft/logicDecision/bin/Debug/net8.0/logicDecision.pdb
+/home/francisco/Documents/foundational_csharp_with_microsoft/logicDecision/obj/Debug/net8.0/logicDecision.GeneratedMSBuildEditorConfig.editorconfig
+/home/francisco/Documents/foundational_csharp_with_microsoft/logicDecision/obj/Debug/net8.0/logicDecision.AssemblyInfoInputs.cache
+/home/francisco/Documents/foundational_csharp_with_microsoft/logicDecision/obj/Debug/net8.0/logicDecision.AssemblyInfo.cs
+/home/francisco/Documents/foundational_csharp_with_microsoft/logicDecision/obj/Debug/net8.0/logicDecision.csproj.CoreCompileInputs.cache
+/home/francisco/Documents/foundational_csharp_with_microsoft/logicDecision/obj/Debug/net8.0/logicDecision.sourcelink.json
+/home/francisco/Documents/foundational_csharp_with_microsoft/logicDecision/obj/Debug/net8.0/logicDecision.dll
+/home/francisco/Documents/foundational_csharp_with_microsoft/logicDecision/obj/Debug/net8.0/refint/logicDecision.dll
+/home/francisco/Documents/foundational_csharp_with_microsoft/logicDecision/obj/Debug/net8.0/logicDecision.pdb
+/home/francisco/Documents/foundational_csharp_with_microsoft/logicDecision/obj/Debug/net8.0/logicDecision.genruntimeconfig.cache
+/home/francisco/Documents/foundational_csharp_with_microsoft/logicDecision/obj/Debug/net8.0/ref/logicDecision.dll

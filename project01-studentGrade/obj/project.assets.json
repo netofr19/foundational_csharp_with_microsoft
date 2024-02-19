@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\SAMSUNG\\.nuget\\packages\\": {}
+    "/home/francisco/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SAMSUNG\\OneDrive\\Documentos\\PROJETOS\\foundational_csharp_with_microsoft\\project01-studentGrade\\project01-studentGrade.csproj",
+      "projectUniqueName": "/home/francisco/Documents/foundational_csharp_with_microsoft/project01-studentGrade/project01-studentGrade.csproj",
       "projectName": "project01-studentGrade",
-      "projectPath": "C:\\Users\\SAMSUNG\\OneDrive\\Documentos\\PROJETOS\\foundational_csharp_with_microsoft\\project01-studentGrade\\project01-studentGrade.csproj",
-      "packagesPath": "C:\\Users\\SAMSUNG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SAMSUNG\\OneDrive\\Documentos\\PROJETOS\\foundational_csharp_with_microsoft\\project01-studentGrade\\obj\\",
+      "projectPath": "/home/francisco/Documents/foundational_csharp_with_microsoft/project01-studentGrade/project01-studentGrade.csproj",
+      "packagesPath": "/home/francisco/.nuget/packages/",
+      "outputPath": "/home/francisco/Documents/foundational_csharp_with_microsoft/project01-studentGrade/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\SAMSUNG\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/francisco/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
